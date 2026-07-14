@@ -19,7 +19,7 @@
 
 ### Tela de Login
 
-<img src="screenshots/login.jpeg" alt="Tela de Login" width="400" />
+<img src="screenshots/login.jpeg" alt="Tela de Login" width="300" />
 
 ---
 
