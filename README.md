@@ -25,13 +25,13 @@
 
 ### Pesquisa
 
-![Pesquisa](./screenshots/pesquisa.jpeg)
+<img src="screenshots/pesquisa.jpeg" alt="Tela de pesquisa" width="200" />
 
 ---
 
 ### Resultado da Pesquisa
 
-![Resultado](./screenshots/resultado-pesquisa.png)
+<img src="screenshots/resultado da pesquisa.jpeg" alt="resultado da pesquisa" width="200" />
 
 ---
 
