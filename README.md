@@ -37,7 +37,7 @@
 
 ### Nova Credencial
 
-<img src="screenshots/nova credencial.jpeg" alt="Tela de nova credencial" width="200" />
+<img src="screenshots/nova-credencial.jpeg" alt="nova-credencial" width="200" />
 
 ---
 
