@@ -31,7 +31,7 @@
 
 ### Resultado da Pesquisa
 
-<img src="screenshots/tela de resultado da pesquisa.jpeg" alt="tela de resultado da pesquisa" width="200" />
+<img src="screenshots/tela de resultado-pesquisa.jpeg" alt="tela de resultado-pesquisa" width="200" />
 
 ---
 
