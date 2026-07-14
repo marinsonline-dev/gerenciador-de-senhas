@@ -19,7 +19,7 @@
 
 ### Tela de Login
 
-![Tela de Login](./screenshots/login.jpeg)
+<img src="screenshots/login.jpeg" alt="Tela de Login" width="400" />
 
 ---
 
