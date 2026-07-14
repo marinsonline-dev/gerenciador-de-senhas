@@ -1,0 +1,6 @@
+{
+  "name": "GS - Gerenciador de Senhas",
+  "description": "Gerenciador de senhas local seguro com simulação de autenticação e criptografia AES.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

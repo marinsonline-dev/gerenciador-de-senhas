@@ -1,0 +1,27 @@
+{
+  "collections": {
+    "users": {
+      "schema": {
+        "id": "string",
+        "name": "string",
+        "email": "string",
+        "role": "string",
+        "created": "timestamp",
+        "last": "timestamp",
+        "ownerId": "string"
+      }
+    },
+    "credentials": {
+      "schema": {
+        "site": "string",
+        "url": "string",
+        "username": "string",
+        "password": "string",
+        "createdAt": "timestamp",
+        "ownerId": "string",
+        "userId": "string",
+        "createdBy": "string"
+      }
+    }
+  }
+}
