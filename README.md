@@ -47,7 +47,7 @@
 
 # 📖 Sobre o Projeto
 
-O **Vault Manager** é uma aplicação web desenvolvida para armazenar credenciais de forma segura, moderna e intuitiva.
+O **Gerenciador de Senhas** é uma aplicação web desenvolvida para armazenar credenciais de forma segura, moderna e intuitiva.
 
 O sistema utiliza **criptografia AES (CryptoJS)** diretamente no navegador, garantindo que as senhas sejam criptografadas antes de serem enviadas ao banco de dados.
 
