@@ -1,4 +1,4 @@
-# 🛡️ Vault Manager - Secure Password Manager
+# 🛡️ Secure Password Manager
 
 > Um gerenciador de senhas seguro desenvolvido com React, TypeScript e Firebase, utilizando criptografia AES no lado do cliente para proteger credenciais antes do armazenamento.
 
