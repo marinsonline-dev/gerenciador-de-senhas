@@ -31,19 +31,19 @@
 
 ### Resultado da Pesquisa
 
-<img src="screenshots/resultado da pesquisa.jpeg" alt="resultado da pesquisa" width="200" />
+<img src="screenshots/tela de resultado da pesquisa.jpeg" alt="tela de resultado da pesquisa" width="200" />
 
 ---
 
 ### Nova Credencial
 
-![Nova Credencial](./screenshots/nova-credencial.jpeg)
+<img src="screenshots/nova credencial.jpeg" alt="Tela de nova credencial" width="200" />
 
 ---
 
 ### Painel Administrativo
 
-![Admin](./screenshots/admin-panel.png)
+<img src="screenshots/login.jpeg" alt="Tela de Login" width="200" />
 
 # 📖 Sobre o Projeto
 
