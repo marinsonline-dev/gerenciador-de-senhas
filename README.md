@@ -24,35 +24,6 @@
   <img src="./screenshots/nova-credencial.jpeg" width="180"/>
   <img src="./screenshots/admin-panel.jpeg" width="180"/>
 </p>
-## 📸 Screenshots
-
-### Tela de Login
-
-<img src="screenshots/login.jpeg" alt="Tela de Login" width="200" />
-
----
-
-### Pesquisa
-
-<img src="screenshots/pesquisa.jpeg" alt="Tela de pesquisa" width="200" />
-
----
-
-### Resultado da Pesquisa
-
-<img src="screenshots/resultado-pesquisa.jpeg" alt="resultado-pesquisa" width="200" />
-
----
-
-### Nova Credencial
-
-<img src="screenshots/nova-credencial.jpeg" alt="nova-credencial" width="200" />
-
----
-
-### Painel Administrativo
-
-<img src="screenshots/login.jpeg" alt="Tela de Login" width="200" />
 
 # 📖 Sobre o Projeto
 
